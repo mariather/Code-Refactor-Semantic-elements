@@ -1,6 +1,6 @@
 # Code Refactor: Semantic elements
 
-## User, marketing agency "HORISEON" 
+## Marketing agency "HORISEON" 
 
 [Click here to see website](https://github.com/mariather/Code-Refactor-Semantic-elements)
 
