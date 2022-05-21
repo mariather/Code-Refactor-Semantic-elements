@@ -2,7 +2,7 @@
 
 ## Marketing agency "HORISEON" 
 
-[Click here to see website](https://github.com/mariather/Code-Refactor-Semantic-elements)
+[Click here to see website](http://127.0.0.1:5500/Develop/index.html#search-engine-optimization)
 
 Project refactor that uses semantic elements on their website's code that provides and improves:
 
