@@ -4,10 +4,12 @@
     margin: 0;
 }
 
+/*Background color for entire page*/
 body {
     background-color: #d9dcd6;
 }
 
+/*This header has a block that contains name, logo and nav elements on the right section*/
 .header {
     
     padding: 20px;
@@ -16,6 +18,7 @@ body {
     color: #ffffff;
 }
 
+/* the "seo" part of the name is accent with a different color*/
 .header h1 {
     display: inline-block;
     font-size: 48px;
@@ -25,6 +28,7 @@ body {
     color: #d9dcd6;
 }
 
+/*nav elements are aligned towards the right side*/
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -51,6 +55,7 @@ p {
     font-size: 16px;
 }
 
+/*edits the background img  */
 .hero {
     height: 800px;
     width: 100%;
@@ -60,6 +65,7 @@ p {
     background-position: center;
 }
 
+/*these alternate between left and right*/
 .float-left {
     float: left;
     margin-right: 25px;
